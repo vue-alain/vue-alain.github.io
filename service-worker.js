@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.dd1e7178dae23a06b627f5e191e1ad69.js"
+  "/precache-manifest.a840a8220cbc727defea69f026e7e961.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-alain"});
